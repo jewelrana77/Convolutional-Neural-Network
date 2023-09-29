@@ -10,3 +10,6 @@ image_classification accuracy : 100%
 
 multiple_image_classification
 [DATASET: ] (https://drive.google.com/file/d/1TuqJIBVRP5FwQ2pzbJTMlya-STujAlIk/view?usp=sharing)
+
+image_classification:
+[DATASET: ] (https://drive.google.com/drive/folders/1aEZCEKfA4PJv0B17FEti1QqlWKYAsak5)
