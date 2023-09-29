@@ -1,0 +1,5 @@
+# <h1> Multiclass_image_classification </h1>
+ <h4>This project can classify 4types of flowers using tensorflow keras</h4>
+Multiclass image classification accuracy : 76.49%
+
+DATASER: https://drive.google.com/file/d/1TuqJIBVRP5FwQ2pzbJTMlya-STujAlIk/view?usp=sharing
